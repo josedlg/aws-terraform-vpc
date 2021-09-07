@@ -17,6 +17,3 @@ terraform validate
   #Terraform plan
 terraform plan
 
-  #Terraform Apply
-terraform apply -auto-approve
-
