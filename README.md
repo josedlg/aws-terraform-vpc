@@ -7,16 +7,16 @@
 
 
 
-How to Run 
-# Terraform Initialize
+#How to Run
+  Terraform Initialize
 terraform init
 
-# Terraform Validate
+ Terraform Validate
 terraform validate
 
-# Terraform plan
+  Terraform plan
 terraform plan
 
-# Terraform Apply
+  Terraform Apply
 terraform apply -auto-approve
 
