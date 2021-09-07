@@ -1,4 +1,3 @@
-# aws-terraform-vpc
 #Creating a VPC on AWS using Terraform. 
 -Creating a VPC using Terraform Modules
 -Using Input variables for VPC and module and refrence them in VPC Terraform Module, and loacl variables
@@ -7,18 +6,18 @@
 
 
 
-#How to Run
-    #Terraform Initialize
+##How to Run
+-Terraform Initialize<br/>
  terraform init
 
-    #Terraform Validate
-terraform validate
+-Terraform Validate<br/>
+ terraform validate
 
-    #Terraform plan
-terraform plan
+-Terraform plan<br/>
+  terraform plan
 
-    #Terraform apply
-terraform apply -auto-approve
+-Terraform apply<br/>
+  terraform apply -auto-approve
 
 
 
