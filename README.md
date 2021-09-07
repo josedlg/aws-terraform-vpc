@@ -1,4 +1,4 @@
-##Creating a VPC on AWS using Terraform.<br/> 
+#Creating a VPC on AWS using Terraform.<br/> 
 -Creating a VPC using Terraform Modules<br/>
 -Using Input variables for VPC and module and refrence them in VPC Terraform Module, and loacl variables<br/>
 -terraform.tvars, vpc.auto.tfvars to load variable values by default from those files to the VPC.<br/> 
@@ -6,7 +6,7 @@
 
 
 
-##How to Run
+#How to Run
 -Terraform Initialize<br/>
  terraform init
 
