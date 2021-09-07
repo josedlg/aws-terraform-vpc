@@ -8,12 +8,17 @@
 
 
 #How to Run
- #Terraform Initialize
-terraform init
+#Terraform Initialize
+ terraform init
 
- #Terraform Validate
+#Terraform Validate
 terraform validate
 
-  #Terraform plan
+#Terraform plan
 terraform plan
+
+#Terraform apply
+terraform apply -auto-approve
+
+![vpcgif](https://user-images.githubusercontent.com/19940577/132275576-a25d9c90-a8e2-4ea4-b05b-ca3b128ee482.gif)
 
